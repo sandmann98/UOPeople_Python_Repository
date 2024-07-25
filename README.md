@@ -1,1 +1,1 @@
-These are some code bits from my Python Projects at University of the People.
+These are some of my Python Projects from University of the People. 
